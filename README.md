@@ -54,6 +54,8 @@ The goal is to generate data-driven insights that can support road safety improv
 - Straight roads accounted for the majority of accidents  
 - Certain regions showed significantly higher accident severity  
 - Forecasting models indicate a potential increase in accidents over time  
+<img width="640" height="480" alt="trend_chart" src="https://github.com/user-attachments/assets/6df8de4e-e5a5-4e30-bf14-5a739bb62b2f" />
+<img width="640" height="480" alt="weather_chart" src="https://github.com/user-attachments/assets/7dbd01f1-81eb-491f-8516-2c2c3e5e8d3e" />
 
 ---
 
