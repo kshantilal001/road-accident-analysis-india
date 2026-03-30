@@ -1,14 +1,14 @@
 # road-accident-analysis-india
-# 🚧 Statistical Analysis of Road Accidents in India
+# Statistical Analysis of Road Accidents in India
 
-## 📌 Overview
+## Overview
 This project analyses road accident data from India to identify key factors influencing accident rates and predict future trends using statistical modelling techniques.
 
 The goal is to generate data-driven insights that can support road safety improvements and policy decisions.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies used
 - Minitab  
 - Microsoft Excel  
 - Statistical Methods:  
@@ -18,7 +18,7 @@ The goal is to generate data-driven insights that can support road safety improv
 
 ---
 
-## 📊 Dataset
+## Dataset
 - Source: Ministry of Road Transport and Highways (India, 2022)
 - Data includes:
   - Weather conditions  
@@ -28,7 +28,7 @@ The goal is to generate data-driven insights that can support road safety improv
 
 ---
 
-## 🔍 Key Steps
+## Steps taken
 
 ### 1. Data Cleaning
 - Cleaned raw datasets using Excel  
@@ -49,7 +49,7 @@ The goal is to generate data-driven insights that can support road safety improv
 
 ---
 
-## 📈 Key Findings
+## Key Findings
 - Clear weather conditions showed the highest number of accidents (likely due to higher traffic volume)  
 - Straight roads accounted for the majority of accidents  
 - Certain regions showed significantly higher accident severity  
@@ -59,7 +59,7 @@ The goal is to generate data-driven insights that can support road safety improv
 
 ---
 
-## 💡 Key Skills Demonstrated
+##  Key Skills Demonstrated
 - Data Cleaning & Preparation  
 - Statistical Analysis  
 - Time-Series Forecasting  
@@ -68,12 +68,12 @@ The goal is to generate data-driven insights that can support road safety improv
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 This project demonstrates how statistical techniques can be used to analyse real-world datasets and generate meaningful insights to support decision-making in road safety.
 
 ---
 
-## 📎 Future Improvements
+## Future Improvements
 - Implement analysis in Python (Pandas, Statsmodels)  
 - Create visual dashboards using Power BI or Tableau  
 - Incorporate more recent datasets for improved forecasting  
